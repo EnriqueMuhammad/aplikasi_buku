@@ -23,7 +23,7 @@
 
 * dan ubah konfigurasi di file functions.php yang berada di folder **functions**.
 
-* **email default** aplikasi ini adalah : **candradwicahyo18@gmail.com** dan **password default** aplikasi ini adalah **candra**
+* **email default** aplikasi ini adalah **candradwicahyo18@gmail.com** dan **password default** aplikasi ini adalah **candra**
 
 ### tentang saya
 
