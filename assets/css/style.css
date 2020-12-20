@@ -1,0 +1,14 @@
+.m-auto { margin: auto; }
+
+#o-none { outline: none; }
+
+#d-desk { display: none; }
+
+.flex-wrap { flex-wrap: wrap; }
+
+.flex-column { flex-direction: column; }
+
+@media only screen and (min-width: 768px) {
+  #d-mobile { display: none; }
+  #d-desk { display: flex; }
+}
