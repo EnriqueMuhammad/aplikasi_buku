@@ -29,10 +29,10 @@
 
 ### tentang saya
 
-> nama : candra dwi cahyo
-> umur : 16 tahun
-> email : candradwicahyo18@gmail.com
-> tempat tinggal : indonesia, jawa timur, malang
+> * nama : candra dwi cahyo
+> * umur : 16 tahun
+> * email : candradwicahyo18@gmail.com
+> * tempat tinggal : indonesia, jawa timur, malang
 
 
 > sekian dari saya dan terima kasih
