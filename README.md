@@ -21,7 +21,7 @@
 
 * ubah konfigurasi tersebut di file config.php yang berada di folder **config**.
 
-* ekspor file bernama **app_buku.sql** ke phpmyadmin kalian masing masing.
+* buatlah database dengan nama **app_buku**, lalu masuk ke database tersebut dan ekspor file bernama **app_buku.sql** ke phpmyadmin kalian masing masing.
 
 * dan ubah konfigurasi di file functions.php yang berada di folder **functions**.
 
